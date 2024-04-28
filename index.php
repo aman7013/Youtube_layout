@@ -60,11 +60,11 @@
 	  	 <td><a href="#"> Home</a></td>
 	  	</tr>
 	  	<tr>
-	  	 <td><i class="fa fa-home" aria-hidden="true"></i></td>
+	  	 <td><i class="fa fa-play-circle" aria-hidden="true"></i></td>
 	  	 <td><a href="#">Shorts</a></td>
 	  	</tr>
 	  	<tr>
-	  	 <td><i class="fa fa-home" aria-hidden="true"></i></td>
+	  	 <td><i class="fa fa-pause" aria-hidden="true"></i></td>
 	  	 <td><a href="#">Subscription</a></td>
 	  	</tr> 
 	  		</table>
@@ -74,15 +74,15 @@
           	<p class="tblp">You  <span><i class="fa fa-angle-right" aria-hidden="true"></i></span></p>
 
            <tr>
-	  	    <td><i class="fa fa-home" aria-hidden="true"></i></td>
+	  	    <td><i class="fa fa-barcode" aria-hidden="true"></i></td>
 	  	    <td><a href="#">Your Channel</a></td>
 	  	   </tr>
 	  	   <tr>
-	  	    <td><i class="fa fa-home" aria-hidden="true"></i></td>
+	  	    <td><i class="fa fa-history" aria-hidden="true"></i></td>
 	  	    <td><a href="#">History</a></td>
 	  	   </tr>
 	  	   <tr>
-	  	    <td><i class="fa fa-home" aria-hidden="true"></i></td>
+	  	    <td><i class="fa fa-play-circle" aria-hidden="true"></i></td>
 	  	    <td><a href="#">Playlist</a></td>
 	  	   </tr>
 	  	   <tr>

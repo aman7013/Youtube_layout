@@ -5,16 +5,16 @@
 		<table>
 			<tr>
 				<td class="hed2" onclick="open()"><i class="fa fa-bars" aria-hidden="true"></i></td>
-				<td><input type="text" placeholder="search"></td>
-				<td><i class="fa fa-home" aria-hidden="true"></i></td>
+				<td><input type="text" placeholder="search"></td> <td><i class="fa fa-search" aria-hidden="true"></i></td>
+				<td><i class="fa fa-microphone" aria-hidden="true"></i></td>
 			</tr>
 		</table>
 	</div>
 	<div class="header_c2">
 		<table>
 			<tr>	
-			<td><i class="fa fa-home" aria-hidden="true"></i></td>
-			<td><i class="fa fa-home" aria-hidden="true"></i></td>
+			<td><i class="fa fa-video-camera" aria-hidden="true"></i></td>
+			<td><i class="fa fa-bell-o" aria-hidden="true"></i></td>
 			<td><img src="img/channels4_profile.jpg"></td>
 			</tr>
 		</table>
